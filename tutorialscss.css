@@ -1,0 +1,14 @@
+.box {
+  background-color: white;
+  color: black;
+  height: 450px;
+  width: 50%;
+  border: 5px;
+  border-style: inset;
+  border-color: black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
