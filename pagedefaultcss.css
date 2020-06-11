@@ -1,11 +1,9 @@
 #footer {
-   display: flex;
-   flex-direction: column;
    position:absolute;
    bottom:0;
    width: 100%;
    text-decoration: none;
-   height:30;   /* Height of the footer */
+   height:60px;   /* Height of the footer */
    background:#333;
 }
 
