@@ -1,9 +1,11 @@
 #footer {
+   display: flex;
+   flex-direction: column;
    position:absolute;
    bottom:0;
    width: 100%;
    text-decoration: none;
-   height:60px;   /* Height of the footer */
+   height:30;   /* Height of the footer */
    background:#333;
 }
 
@@ -11,9 +13,9 @@
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 7px 8px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 body {
