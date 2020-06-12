@@ -1,14 +1,15 @@
+/* The CSS document for the homepage, just adds a box around and styles the main text */
 .box1 {
   background-color: white;
   color: black;
   height: 600px;
   width: 90%;
-  border: 5px;
-  border-style: inset;
-  border-color: black;
+  border: 5px; /* Adds the border */
+  border-style: inset; /* border straight line thing */
+  border-color: black; /* border colour black */
   padding: 50px;
-  margin: 20px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
+  margin: 20px; /* centers it */
+  margin-left: auto; /* also centers it */
+  margin-right: auto; /* wow this also centers it */
+  text-align: center; /* centers text */
 }

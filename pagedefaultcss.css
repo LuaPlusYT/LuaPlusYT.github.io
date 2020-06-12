@@ -1,11 +1,13 @@
+/* footer stuff */
 #footer {
-   bottom:0;
-   width: 100%;
-   text-decoration: none;
+   bottom:0; /* no idea what this does, w3 told me to add it so i added it */
+   width: 100%; /* idk i  think its the width */
+   text-decoration: none; /* removes those stupid blue stuff on hyperlinks smh :( */
    height:60px;   /* Height of the footer */
-   background:#333;
+   background:#333; /* background color of the footer */
 }
 
+/* no bloody idea */
 #footer a{
   float: left;
   color: #f2f2f2;
@@ -14,7 +16,9 @@
   text-decoration: none;
   font-size: 17px;
 }
+/* end of footer stuff */
 
+/* adds the background + does text stuff */
 body {
   margin: 0;
   padding: 0;
